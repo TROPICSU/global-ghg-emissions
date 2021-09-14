@@ -11,3 +11,7 @@ A greenhouse gas (GHG) is defined as a type of gas which is absorbing and emitti
 A gradual increase in the emission of greenhouse gases could be observed after the industrial revolution started in the 18th century in England. The industrial revolution was helping in the development related to the fields of technology and the socioeconomic development of the nation. There was a huge demand for using various energy sources such as coal, petroleum products and electricity which eventually led to an increase in the amount of carbon emissions. Due to the various changes in the field of technology there was an increase in the use of various natural resources in various sectors.
 
 **NOTE - The interactive graphs which have been created using the plotly library are not visible because the interactive features of the notebook, such as custom JavaScript plots, will not work in your repository on GitHub**
+
+**Links to the Tableau Dashboards**
+
+**CO2 Emissions from Cement Production (Period: 1900-1950):** (https://public.tableau.com/views/CO2EmissionsfromCementProductionPeriod1900-1950/CO2EmissionsfromCementProductionPeriod1900-1950?:language=en-US&:display_count=n&:origin=viz_share_link)
