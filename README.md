@@ -15,3 +15,49 @@ A gradual increase in the emission of greenhouse gases could be observed after t
 **Links to the Tableau Dashboards**
 
 **CO2 Emissions from Cement Production (Period: 1900-1950):** (https://public.tableau.com/views/CO2EmissionsfromCementProductionPeriod1900-1950/CO2EmissionsfromCementProductionPeriod1900-1950?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Coal Production (Period: 1900-1950):** (https://public.tableau.com/views/CO2EmissionsfromCoalProductionPeriod1900-1950/CO2EmissionsfromCoalProductionPeriod1900-1950?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Gas Flaring (Period: 1900-1950):** (https://public.tableau.com/views/CO2EmissionsfromGasFlaringPeriod1900-1950/CO2EmissionsfromGasFlaringPeriod1900-1950?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Gas Production (Period: 1900-1950):** (https://public.tableau.com/views/CO2EmissionsfromGasProductionPeriod1900-1950/CO2EmissionsfromGasProductionPeriod1900-1950?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Oil Production (Period: 1900-1950):** (https://public.tableau.com/views/CO2EmissionsfromOilProductionPeriod1900-1950/CountrieswiththehighestCO2EmissionsfromOilProductionmeasuredinmilliontonnesperyearPeriod1900-1950?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Cement Production (Period: 1951-1990):** (https://public.tableau.com/views/CO2EmissionsfromCementProductionPeriod195-1990/CO2EmissionsfromCementProductionPeriod195-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Coal Production (Period: 1951-1990):** (https://public.tableau.com/views/CO2EmissionsfromCoalProductionPeriod1951-1990/CO2EmissionsfromCoalProductionPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Gas Flaring (Period: 1951-1990):** (https://public.tableau.com/views/CO2EmissionsfromGasFlaringPeriod1951-1990/CO2EmissionsfromGasFlaringPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Gas Production (Period: 1951-1990):** (https://public.tableau.com/views/CO2EmissionsfromGasProductionPeriod1951-1990/CO2EmissionsfromGasProductionPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Oil Production (Period: 1951-1990):** (https://public.tableau.com/views/CO2EmissionsfromOilProductionPeriod1951-1990/CO2EmissionsfromOilProductionPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Cement Production (Period: 1991-2019):** (https://public.tableau.com/views/CO2EmissionsfromCementProductionPeriod1991-2019/CO2EmissionsfromCementProductionPeriod1991-2019?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Coal Production (Period: 1991-2019):** (https://public.tableau.com/views/CO2EmissionsfromCoalProductionPeriod1951-1990/CO2EmissionsfromCoalProductionPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Gas Flaring (Period: 1991-2019):** (https://public.tableau.com/views/CO2EmissionsfromGasFlaringPeriod1991-2019/CO2EmissionsfromGasFlaringPeriod1991-2019?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Gas Production (Period: 1991-2019):** (https://public.tableau.com/views/CO2EmissionsfromGasProductionPeriod1991-2019/CO2EmissionsfromGasProductionPeriod1991-2019?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions from Oil Production (Period: 1991-2019):** (https://public.tableau.com/views/CO2EmissionsfromOilProductionPeriod1991-2019/CO2EmissionsfromOilProductionPeriod1991-2019?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions measured in Million Tonnes Per Year (Period: 1900-1950)** (https://public.tableau.com/views/CO2EmissionsmeasuredinMillionTonnesPerYearPeriod1900-1950/CO2EmissionsmeasuredinMillionTonnesPerYearPeriod1900-1950?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**Methane Emissions measured in Million Tonnes of CO2 Equivalents (Period: 1900-1950)** (https://public.tableau.com/views/MethaneEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1900-1950/MethaneEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1900-1950?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**Nitrous Oxide Emissions measured in Million Tonnes of CO2 Equivalents (Period: 1951-1990)** (https://public.tableau.com/views/NitrousOxideEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1951-1990/NitrousOxideEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions measured in Million Tonnes Per Year (Period: 1951-1990)** (https://public.tableau.com/views/CO2EmissionsmeasuredinMillionTonnesPerYearPeriod1951-1990/CO2EmissionsmeasuredinMillionTonnesPerYearPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**Nitrous Oxide Emissions measured in Million Tonnes of CO2 Equivalents (Period: 1951-1990)** (https://public.tableau.com/views/NitrousOxideEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1951-1990/NitrousOxideEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**Methane Emissions measured in Million Tonnes of CO2 Equivalents (Period: 1951-1990)** (https://public.tableau.com/views/MethaneEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1951-1990/MethaneEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**CO2 Emissions measured in Million Tonnes Per Year (Period: 1990-2019)** (https://public.tableau.com/views/CO2EmissionsmeasuredinMillionTonnesPerYearPeriod1990-2019/CO2EmissionsmeasuredinMillionTonnesPerYearPeriod1990-2019?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**Methane Emissions measured in Million Tonnes of CO2 Equivalents (Period: 1991-2019)** (https://public.tableau.com/views/MethaneEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1991-2019/MethaneEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1991-2019?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+**Nitrous Oxide Emissions measured in Million Tonnes of CO2 Equivalents (Period: 1951-1990)** (https://public.tableau.com/views/NitrousOxideEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1951-1990/NitrousOxideEmissionsmeasuredinMillionTonnesofCO2EquivalentsPeriod1951-1990?:language=en-US&:display_count=n&:origin=viz_share_link)
